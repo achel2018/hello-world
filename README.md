@@ -1,2 +1,2 @@
 # hello-world
-Create my first repository 
+This is my first time on GitHub. I am using the Hello World guide to get used with GitHub. 
